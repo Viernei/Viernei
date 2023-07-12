@@ -5,6 +5,7 @@
 - entendendo tranquilamente. https://www.serfrontend.com
 - 💞️ Por enquanto não tenho condições de colaborar em projetos ainda, pois recém estou estudando semântica básica
 - 📫 How to reach me ...
+- https://www.instagram.com/vierneijunior/
 
 <!---
 Viernei/Viernei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
